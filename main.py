@@ -1,3 +1,7 @@
+#Abdullah Mutaz Alshawa
+#Docker tutorial
+
+#Flask is a web development framework
 from flask import Flask, request
 
 app = Flask(__name__)

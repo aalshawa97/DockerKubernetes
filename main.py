@@ -9,7 +9,7 @@ app = Flask(__name__)
 @app.route('/')
 def welcome():
     # Return a 'Welcome' message to the client
-    return 'Welcome'
+    return 'Welcome to the DevOps Demo'
 
 # Define a route for the '/goodbye' URL path
 @app.route('/goodbye')
